@@ -1,7 +1,6 @@
 package com.geekbrains.products.products;
 
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
